@@ -14,4 +14,5 @@ console.log(sum);
 const sqr=a.map(ele=>ele*ele);
 console.log(sqr);
 
+//const max=a.reduce(e=>)
 
