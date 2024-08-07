@@ -11,3 +11,7 @@ for(let i=0;i<a.length;i++){
 console.log(sum);
 
 
+const sqr=a.map(ele=>ele*ele);
+console.log(sqr);
+
+
