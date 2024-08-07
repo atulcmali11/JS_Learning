@@ -1,8 +1,6 @@
 //sorting
 
-let a=[3,2,5,7,1,9,5];
-let val=a.sort().reverse();
-console.log(val);
+
 
 // let rev=a.reverse();
 // console.log(rev);
