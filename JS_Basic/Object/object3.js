@@ -29,3 +29,8 @@ c.city='Pune';
 console.log(a);
 console.log(b);
 console.log(c);
+
+for(let k in c){
+    console.log(c[k]);
+    
+}
