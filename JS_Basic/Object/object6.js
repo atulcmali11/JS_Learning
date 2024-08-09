@@ -1,7 +1,7 @@
 //character count from string
 
 
-const str='maafgfxaacvbnamm';
+const str='maafgfxaac11vb66na77mm';
 let cnt=0;
 
 const obj={};
@@ -15,7 +15,15 @@ for(let i=0;i<str.length;i++){
     }
 
 }
-console.log(obj);
+
+for(let k in obj){
+    if(obj[k]>2){
+        console.log(k,obj[k]);
+        
+    }
+   
+}
+//console.log(obj);
 
 
 
